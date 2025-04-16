@@ -130,15 +130,6 @@ This app uses **Nodemailer** with **Ethereal Email**, a fake SMTP service that l
 
 ---
 
-## 📸 Screenshots
-
-> You can optionally insert screenshots here:
-
-- Form interface
-- Email preview in Ethereal
-
----
-
 ## 🔐 Security Notes
 
 This is a demo app meant for learning purposes:
